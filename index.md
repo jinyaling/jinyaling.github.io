@@ -8,7 +8,7 @@ title: ""
 <img src="https://github.com/jinyaling/jinyaling.github.io/assets/154586251/4591256b-6235-4c01-9b7c-e0ff3875440f"  width="200" height="235">
 
 ### Associate Professor (not tenured)
-The School of Accounting
+School of Accounting
 
 Southwestern University of Finance and Economics
 
