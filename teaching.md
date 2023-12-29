@@ -1,10 +1,10 @@
 ---
-title: "Teaching"
+title: ""
 permalink: "/teaching/"
 layout: page
 ---
 
-## Cources
+## Teaching 
+**Financial Accounting** (Undergraduate), Instructor, Southwestern University of Finance and Economics, 2023
 
-Paper A [repository](https://github.com/niklasbuschmann/contrast).
-Paper B [Github Pages](https://pages.github.com/).
+**Equity Securities** (Undergraduate), Co-instructor, Nanyang Technological University, 2021
