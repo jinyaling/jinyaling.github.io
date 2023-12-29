@@ -4,7 +4,7 @@ permalink: "/shortbio/"
 layout: page
 ---
 
-<img src="https://github.com/jinyaling/jinyaling.github.io/assets/154586251/7d5a5b2b-b47f-418f-9e60-964e7acc58b8"  width="200" height="235">
+<img src="https://github.com/jinyaling/jinyaling.github.io/assets/154586251/4591256b-6235-4c01-9b7c-e0ff3875440f"  width="200" height="235">
 
 I am an Associate Professor at the School of Accounting of Southwestern University of Finance and Economics (SWUFE). Before joining SWUFE in September 2022, I obtained my PhD degree in Finance from Nanyang Technological University. 
 
