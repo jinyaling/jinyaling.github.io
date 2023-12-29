@@ -8,13 +8,35 @@ date_format: "%B %d, %Y"
 
 # Layout
 
+
+###########################
+# --- General options --- #
+###########################
 show_social: true          # show social on the home page
 show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 
-# Menu
 
+######################################
+# --- Colours / background image --- #
+######################################
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+
+######################################
+# --- Menu --- #
+######################################
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "shortbio.md", title: "Short Bio"}
   - {file: "research.md", title: "Research"}
@@ -22,6 +44,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "blog.md", title: "Blog"}
   
 
+
+#####################################
+# --- Footer social media links --- #
+#####################################
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jinyaling001@gmail.com"}
   # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
