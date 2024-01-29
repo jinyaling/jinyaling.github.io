@@ -8,7 +8,7 @@ layout: page
 
 Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance: ESG/CSR, Firm Value, and Investment Returns, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12379), 51(3), 325-371.
 
-**Yaling Ji**, 2022, Firm Misvaluation and Corporate Social Responsibility, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12373), 51(4), 517-540.
+**Yaling Jin**, 2022, Firm Misvaluation and Corporate Social Responsibility, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12373), 51(4), 517-540.
 
 &nbsp;
 ## Working papers
