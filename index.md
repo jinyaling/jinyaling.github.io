@@ -8,7 +8,7 @@ title: ""
 [comment]: # (<img src="https://github.com/jinyaling/jinyaling.github.io/assets/154586251/4591256b-6235-4c01-9b7c-e0ff3875440f"  width="200" height="235">)
 
 
-<img src="https://github.com/jinyaling/jinyaling.github.io/assets/154586251/50ebdf6d-ca58-44e0-9d64-60d077a5f9bd"  width="500" height="500">
+<img src="https://github.com/jinyaling/jinyaling.github.io/assets/154586251/50ebdf6d-ca58-44e0-9d64-60d077a5f9bd"  width="450" height="450">
 
 
 
