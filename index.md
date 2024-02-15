@@ -11,9 +11,7 @@ title: ""
 
 
 ### Associate Professor (not tenured)
-School of Accounting
-
-Southwestern University of Finance and Economics
+School of Accounting, Southwestern University of Finance and Economics
 
 
 ### Research Interests: 
