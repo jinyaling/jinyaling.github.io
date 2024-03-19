@@ -14,8 +14,7 @@ Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance:
 ## Working papers
 
  - **Paid Family Leave, Inventor Mobility and Firm Innovation**, with Qifei Zhu
-> We use the adoption of US state-level Paid Family Leave (PFL) laws to examine the effect of family-friendly policies on rm innovation. We find that PFL policies increase the innovation outputs for firms employing workers in PFL states. We investigate three potential channels: inventor productivity, inventor mobility, and inventor career longevity. PFL policies attract female inventors from out-of-state and help firms retain their current employees. In addition,
-female inventors are less likely to drop out of their patenting careers after states adopt PFL policies. Overall, inventor relocation and career lengthening contribute to the innovation gains in states with PFL policies.
+> We use the adoption of US state-level Paid Family Leave (PFL) laws to examine the effect of family-friendly policies on firm innovation. We find that PFL policies increase the innovation outputs for firms employing workers in PFL states. We investigate three potential channels: inventor productivity, inventor mobility, and inventor career longevity. PFL policies attract female inventors from out-of-state and help firms retain their current employees. In addition, female inventors are less likely to drop out of their patenting careers after states adopt PFL policies. Overall, inventor relocation and career lengthening contribute to the innovation gains in states with PFL policies.
 
 &nbsp;
  - **Corporate Taxes and Corporate Social Responsibility**, with Xin Chang (Simba), Endong Yang and Wenrui Zhang
