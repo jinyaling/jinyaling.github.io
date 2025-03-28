@@ -1,3 +1,29 @@
+// Add these with your other variables
+$content-max-width: 1200px !default
+$content-padding: 0 20px !default
+
+
+// Header image styles
+.header-image-container
+  width: 100%
+  max-width: $content-max-width
+  margin: 0 auto
+  padding: $content-padding
+  overflow: hidden
+
+  img
+    width: 100%
+    height: auto
+    display: block
+    object-fit: cover
+    max-height: 300px  // Adjust as needed
+
+// Responsive adjustments
+@media (max-width: 768px)
+  .header-image-container
+    padding: 0 15px
+
+  
 $font-size: calc(0.8rem + 0.2vw) !default
 $font-weight: 400 !default
 $font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif !default
