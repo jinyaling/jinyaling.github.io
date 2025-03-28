@@ -10,9 +10,13 @@ Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance:
 
 **Yaling Jin**, 2022, Firm Misvaluation and Corporate Social Responsibility, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12373), 51(4), 517-540.
 
-&nbsp;
-## Working papers
 
+## Working papers
+&nbsp;
+ -**Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation**, with Hong Ru, Endong Yang, and Kunru Zou
+> This study examines the economic consequences of China’s “Three-Red-Lines” policy. Following the policy’s implementation in late 2020, real estate developers exceeding policy thresholds experienced a sharp decline in debt financing, land acquisitions, and financial performance, and are more likely to default on bonds. The negative impact on financial performance and the increase in default probability are significantly more pronounced for privately-owned developers than for state-owned developers crossing the same number of red lines. This policy curbed debt-fueled expansion but substantially reduced land sales revenue of local government. Local governments adapted by relying more heavily on the subsidiary companies (Sub-LGFVs) of their local government financing vehicles for land acquisitions. Using satellite night light data, we find slower development on lands acquired by Sub-LGFVs. Collectively, we document the policy’s disruptive and transformative effects on China’s land and housing markets. 
+
+&nbsp;
  - **Paid Family Leave, Inventor Mobility and Firm Innovation**, with Qifei Zhu
 > We use the adoption of US state-level Paid Family Leave (PFL) laws to examine the effect of family-friendly policies on firm innovation. We find that PFL policies increase the innovation outputs for firms employing workers in PFL states. We investigate three potential channels: inventor productivity, inventor mobility, and inventor career longevity. PFL policies attract female inventors from out-of-state and help firms retain their current employees. In addition, female inventors are less likely to drop out of their patenting careers after states adopt PFL policies. Overall, inventor relocation and career lengthening contribute to the innovation gains in states with PFL policies.
 
@@ -28,5 +32,4 @@ Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance:
 
 &nbsp;
 ## Work in Progress
- - **Local Government Financing Vehicle and China Land Market**, with Hong Ru, Endong Yang, and Kunru Zou
- - **Paid Family Leave and Financial Analysts**, with Huifang Yin, and Wenrui Zhang
+ - **Paid Family Leave and Financial Analysts**, with Yanyan Guo, Huifang Yin, and Wenrui Zhang
