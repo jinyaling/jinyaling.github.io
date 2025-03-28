@@ -28,6 +28,11 @@
 {% endif %}
 
 <header>
+  {% if site.navbar-img %}
+<div class="header-image-container">
+  <img src="{{ site.navbar-img | relative_url }}" alt="Site Header" class="header-image">
+</div>
+{% endif %}
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
 </header>
