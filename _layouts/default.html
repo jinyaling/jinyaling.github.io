@@ -42,7 +42,9 @@
   <div class="header-image-container">
     <img src="{{ site.navbar-img | relative_url }}" alt="Header">
   </div>
-  <!-- Your existing nav content -->
+
+   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  {% include menu.html menu=pages %}
 </header>
 
 <!-- Google tag (gtag.js) -->
