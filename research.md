@@ -13,7 +13,7 @@ Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance:
 
 ## Working papers
 &nbsp;
- - **Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation**, with Hong Ru, Endong Yang, and Kunru Zou
+ - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Hong Ru, Endong Yang, and Kunru Zou
 > This study examines the economic consequences of China’s “Three-Red-Lines” policy. Following the policy’s implementation in late 2020, real estate developers exceeding policy thresholds experienced a sharp decline in debt financing, land acquisitions, and financial performance, and are more likely to default on bonds. The negative impact on financial performance and the increase in default probability are significantly more pronounced for privately-owned developers than for state-owned developers crossing the same number of red lines. This policy curbed debt-fueled expansion but substantially reduced land sales revenue of local government. Local governments adapted by relying more heavily on the subsidiary companies (Sub-LGFVs) of their local government financing vehicles for land acquisitions. Using satellite night light data, we find slower development on lands acquired by Sub-LGFVs. Collectively, we document the policy’s disruptive and transformative effects on China’s land and housing markets. 
 
 &nbsp;
