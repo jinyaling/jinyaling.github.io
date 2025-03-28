@@ -6,9 +6,15 @@
 // Header image adjustments
 .header-image-container
   margin: 0 calc(38% - 22em)  // Matches html padding
-  padding: 0 !important        // Overrides default header padding
-  max-width: none             // Bypasses content width limits
-  background: transparent     // Prevents color conflicts
+  width: calc(100% - (76% - 44em)) // Counteracts the margin
+  max-width: 100%
+  
+// .header-image-container
+//   margin: 0 calc(38% - 22em)  // Matches html padding
+//   padding: 0 !important        // Overrides default header padding
+//   max-width: none             // Bypasses content width limits
+//   background: transparent     // Prevents color conflicts
+
 
   img
     width: 100%
