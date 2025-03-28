@@ -35,9 +35,9 @@ footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of color
-navbar-img: "https://images.pexels.com/photos/1242764/pexels-photo-1242764.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/Float.jpg"
+# footer-img: "/assets/img/bgimage.png"
+# page-img: "/assets/img/bgimage.png"
 
 
 
