@@ -1,12 +1,26 @@
+// .header-image-container {
+//   width: 100%;
+//   max-height: 300px; /* Adjust as needed */
+//   overflow: hidden;
+//   text-align: center;
+  
+//   .header-image {
+//     width: 100%;
+//     height: auto;
+//     object-fit: cover;
+//   }
+// }
+
+/* Match header image width to content */
 .header-image-container {
   width: 100%;
-  max-height: 300px; /* Adjust as needed */
-  overflow: hidden;
-  text-align: center;
-  
-  .header-image {
+  max-width: 1200px; /* Set this to match your content's max-width */
+  margin: 0 auto;    /* Centers the image */
+  padding: 0 20px;   /* Match your content's side padding */
+
+  img {
     width: 100%;
     height: auto;
-    object-fit: cover;
+    display: block;
   }
 }
