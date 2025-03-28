@@ -5,7 +5,7 @@ title: ""
 
 ## Yaling JIN (金雅玲)
 
-![JYL_2024](/assets/img/JYL_2024.jpg)
+<img src="/assets/img/JYL_2024.jpg" alt="Description" style="width: 30%; max-width: 800px; border: 1px solid #eee;">
 
 
 ### Associate Professor (not tenured)
