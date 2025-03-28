@@ -19,10 +19,14 @@ $content-padding: 0 20px !default
     max-height: 300px  // Adjust as needed
 
 // Responsive adjustments
-@media (max-width: 768px)
-  .header-image-container
-    padding: 0 15px
+// @media (max-width: 768px)
+//   .header-image-container
+//     padding: 0 15px
 
+@media (min-width: 32em)
+  .header-image-container
+    margin: 0 calc(22% - 6em)  // Matches body padding at this breakpoint
+    width: auto
   
 $font-size: calc(0.8rem + 0.2vw) !default
 $font-weight: 400 !default
