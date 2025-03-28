@@ -27,7 +27,7 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<header>  
+<!-- <header> 
 {% if site.navbar-img %}
 <div class="header-image-container">
   <img src="{{ site.navbar-img | relative_url }}" alt="">
@@ -36,6 +36,13 @@
   
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
+</header> -->
+
+<header class="site-header">
+  <div class="header-image-container">
+    <img src="{{ site.navbar-img | relative_url }}" alt="Header">
+  </div>
+  <!-- Your existing nav content -->
 </header>
 
 <!-- Google tag (gtag.js) -->
