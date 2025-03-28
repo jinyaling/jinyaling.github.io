@@ -27,25 +27,25 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<!-- <header> 
+<header> 
 {% if site.navbar-img %}
-<div class="header-image-container">
-  <img src="{{ site.navbar-img | relative_url }}" alt="">
-</div>
+  <div class="header-image-container">
+    <img src="{{ site.navbar-img | relative_url }}" alt="Header">
+  </div>
 {% endif %}
   
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-</header> -->
+</header> 
 
-<header class="site-header">
+<!-- <header class="site-header">
   <div class="header-image-container">
     <img src="{{ site.navbar-img | relative_url }}" alt="Header">
   </div>
 
    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-</header>
+</header> -->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-18Q7HG2MD8"></script>
