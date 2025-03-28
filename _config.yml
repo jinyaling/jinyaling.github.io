@@ -21,9 +21,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 ######################################
 # --- Colours / background image --- #
 ######################################
-# navbar-col: "#EAEAEA"
-# navbar-text-col: "#404040"
-# navbar-border-col: "#DDDDDD"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
