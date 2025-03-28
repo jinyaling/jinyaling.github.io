@@ -35,9 +35,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of color
-navbar-img: "/assets/img/Float_wide.jpg"
+# navbar-img: "/assets/img/Float_wide.jpg"
 # footer-img: "/assets/img/bgimage.png"
-# page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/Float_wide.png"
 
 
 
