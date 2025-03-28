@@ -3,6 +3,24 @@
 
 @import index, font, basic, layout, classes
 
+// Header image adjustments
+.header-image-container
+  margin: 0 calc(38% - 22em)  // Matches html padding
+  padding: 0 !important        // Overrides default header padding
+  max-width: none             // Bypasses content width limits
+  background: transparent     // Prevents color conflicts
+
+  img
+    width: 100%
+    object-fit: cover
+    box-shadow: 0 0.3em 0.3em rgba(0,0,0,0.1)  // Matches body shadow
+
+// Dark mode adaptation
+@media (prefers-color-scheme: dark)
+  .header-image-container img
+    opacity: 0.9
+    filter: brightness(0.8) contrast(1.2)
+
 html
   background: lighten($light, 65%)
   padding: 0 calc(38% - 22em)
