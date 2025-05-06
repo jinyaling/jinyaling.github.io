@@ -13,17 +13,18 @@ Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance:
 
 ## Working papers
 &nbsp;
- - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Hong Ru, Endong Yang, and Kunru Zou
-> This study examines the economic consequences of China’s “Three-Red-Lines” policy. Following the policy’s implementation in late 2020, real estate developers exceeding policy thresholds experienced a sharp decline in debt financing, land acquisitions, and financial performance, and are more likely to default on bonds. The negative impact on financial performance and the increase in default probability are significantly more pronounced for privately-owned developers than for state-owned developers crossing the same number of red lines. This policy curbed debt-fueled expansion but substantially reduced land sales revenue of local government. Local governments adapted by relying more heavily on the subsidiary companies (Sub-LGFVs) of their local government financing vehicles for land acquisitions. Using satellite night light data, we find slower development on lands acquired by Sub-LGFVs. Collectively, we document the policy’s disruptive and transformative effects on China’s land and housing markets. 
-
-&nbsp;
- - **[Paid Family Leave, Inventor Mobility and Firm Innovation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3894180)**, with Qifei Zhu
-> We use the adoption of US state-level Paid Family Leave (PFL) laws to examine the effect of family-friendly policies on firm innovation. We find that PFL policies increase the innovation outputs for firms employing workers in PFL states. We investigate three potential channels: inventor productivity, inventor mobility, and inventor career longevity. PFL policies attract female inventors from out-of-state and help firms retain their current employees. In addition, female inventors are less likely to drop out of their patenting careers after states adopt PFL policies. Overall, inventor relocation and career lengthening contribute to the innovation gains in states with PFL policies.
-
-&nbsp;
- - **[Corporate Taxes and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694203)**, with Xin Chang (Simba), Endong Yang, and Wenrui Zhang
+ - **[Corporate Taxes and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694203)**, with Xin Chang (Simba), Endong Yang, and Wenrui Zhang, Journal of Corporate Finance (JCF), Forthcoming
 >
 > Exploiting staggered changes in state-level corporate income tax rates, we document that corporate social responsibility (CSR) performance improves substantially following tax cuts, reflecting firms’ reliance on internal funds for CSR investments. However, tax increases do not significantly weaken CSR performance, implying that CSR commitments are sticky on the upside. Tax cuts enhance CSR performance more for firms with greater tax exposure, tighter financial constraints, or stronger prosocial preferences. Additional analysis of the 2017 federal tax reform substantiates the CSR effect of tax cuts. Overall, our findings highlight essential CSR features and illustrate how corporate tax policy drives corporate sustainability.
+
+&nbsp;
+ - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Xiaozhe Guo, Hong Ru, Endong Yang, and Kunru Zou
+> This study examines the economic consequences of China’s Three-Red-Lines policy—introduced in 2021 to cap real estate developers’ leverage by imposing strict thresholds on debt ratios and liquidity. Developers breaching these thresholds experienced sharp declines in financing, land acquisitions, and financial performance, with privately-owned developers disproportionately affected relative to state-owned firms. Using granular project-level data, we document significant
+drops in sales and a demand shift from private to state-owned developers. The policy also reduced local governments’ land sale revenues, prompting greater reliance on hidden local government financing vehicles for land purchases. The policy induced broad structural changes in China’s housing and land markets.
+
+&nbsp;
+ - **[Paid Family Leave, Inventor Mobility and Firm Innovation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3894180)**, with Nianchen Han, and Qifei Zhu
+> We use the adoption of US state-level Paid Family Leave (PFL) laws to examine the effect of family-friendly policies on firm innovation. We find that PFL policies increase the innovation outputs for firms employing workers in PFL states. We investigate three potential channels: inventor productivity, inventor mobility, and inventor career longevity. PFL policies attract female inventors from out-of-state and help firms retain their current employees. In addition, female inventors are less likely to drop out of their patenting careers after states adopt PFL policies. Overall, inventor relocation and career lengthening contribute to the innovation gains in states with PFL policies.
 
 &nbsp;
  - **[Employment Nondiscrimination Acts and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4465220)**, with Xin Chang (Simba), Endong Yang, and Wenrui Zhang
