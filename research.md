@@ -12,7 +12,6 @@ Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance:
 
 
 ## Working papers
-&nbsp;
  - **[Corporate Taxes and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694203)**, with Xin Chang (Simba), Endong Yang, and Wenrui Zhang
 
 *Journal of Corporate Finance, Forthcoming*
