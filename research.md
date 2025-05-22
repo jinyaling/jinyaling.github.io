@@ -6,19 +6,19 @@ layout: page
 
 ## Publications
 
+Xin Chang, **Yaling Jin**, Endong Yang, Wenrui Zhang, 2025, Firm Misvaluation and Corporate Social Responsibility, [*Journal of Corporate Finance*](https://doi.org/10.1016/j.jcorpfin.2025.102809), 94, 102809.
+
 Xin Chang, Kangkang Fu, **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance: ESG/CSR, Firm Value, and Investment Returns, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12379), 51(3), 325-371.
 
 **Yaling Jin**, 2022, Firm Misvaluation and Corporate Social Responsibility, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12373), 51(4), 517-540.
 
+
+
 &nbsp;
 
 ## Working papers
- - **[Corporate Taxes and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694203)**, with Xin Chang, Endong Yang, and Wenrui Zhang <br>
-*Journal of Corporate Finance* (Forthcoming) 
-> Exploiting staggered changes in state-level corporate income taxes, we document that corporate social responsibility (CSR) performance improves substantially following tax cuts, reflecting firms’ reliance on internal funds for CSR investments. However, tax increases do not significantly weaken CSR performance, implying that CSR commitments are sticky on the upside. Tax cuts enhance CSR performance more for firms with greater tax exposure, tighter financial constraints, better corporate governance, stronger prosocial preferences, or higher risk. Additional analysis of the 2017 federal tax reform substantiates the CSR effect of tax cuts. Overall, our findings highlight essential CSR features and illustrate how corporate tax policy drives corporate sustainability.
 
-&nbsp;
- - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Xiaozhe Guo, Hong Ru, Endong Yang, and Kunru Zou
+ - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Xiaozhe Guo, Hong Ru, Endong Yang, and Kunru Zou <br>
 > This study examines the economic consequences of China’s Three-Red-Lines policy—introduced in 2021 to cap real estate developers’ leverage by imposing strict thresholds on debt ratios and liquidity. Developers breaching these thresholds experienced sharp declines in financing, land acquisitions, and financial performance, with privately-owned developers disproportionately affected relative to state-owned firms. Using granular project-level data, we document significant
 drops in sales and a demand shift from private to state-owned developers. The policy also reduced local governments’ land sale revenues, prompting greater reliance on hidden local government financing vehicles for land purchases. The policy induced broad structural changes in China’s housing and land markets.
 
