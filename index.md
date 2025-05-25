@@ -18,5 +18,5 @@ Corporate Finance, Chinese Economy, Corporate Innovation, Sustainability
 ### Contact:
 Email: [jinyl@swufe.edu.cn](mailto:jinyl@swufe.edu.cn) and [jinyaling001@gmail.com](mailto:jinyaling001@gmail.com)
 
-Office: Room 602, Chengzheng Building, Southwestern University of Finance and Economics (Liulin Campus), 555 Liutai Avenue, Wenjiang District, Chengdu, Sichuan, China
+Office: Room 602, Chengzheng Building, SWUFE (Liulin Campus), 555 Liutai Avenue, Wenjiang District, Chengdu, Sichuan, China
 
