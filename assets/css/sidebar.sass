@@ -53,3 +53,21 @@ nav a:hover, nav a.selected
 
 .description
   margin: 2em 0
+
+/* Default link styling */
+a {
+  color: $blue;                  // Use your existing color variable
+  text-decoration: none;         // Remove underline
+  transition: color 0.2s ease;   // Smooth color transition
+
+  /* Hover state */
+  &:hover {
+    color: darken($blue, 15%);   // Darker blue on hover
+    text-decoration: underline;  // Add underline on hover
+  }
+
+  /* Visited links */
+  &:visited {
+    color: lighten($blue, 10%);  // Lighter blue for visited links
+  }
+}
