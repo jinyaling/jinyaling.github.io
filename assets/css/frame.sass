@@ -15,13 +15,6 @@
     display: block
   
 
-
-// Dark mode adaptation
-@media (prefers-color-scheme: dark)
-  .header-image-container img
-    opacity: 0.9
-    filter: brightness(0.8) contrast(1.2)
-
 html
   background: lighten($blue, 65%)
   padding: 0 calc(38% - 22em)
@@ -32,6 +25,12 @@ body
 body > header, body > footer
   background: lighten($blue, 35%)
   color: $blue
+  
+// Dark mode adaptation
+@media (prefers-color-scheme: dark)
+  .header-image-container img
+    opacity: 0.9
+    filter: brightness(0.8) contrast(1.2)
 
 @media (min-width: 32em)
   body > header, body > article, body > footer
