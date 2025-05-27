@@ -8,7 +8,7 @@ layout: page
 
 [Xin Chang](https://personal.ntu.edu.sg/changxin/), **Yaling Jin**, [Endong Yang](https://fba.um.edu.mo/faculty/endongyang/), [Wenrui Zhang](https://sites.google.com/site/zh0006ui/), 2025, Corporate taxes and corporate social responsibility, [*Journal of Corporate Finance*](https://doi.org/10.1016/j.jcorpfin.2025.102809), 94, 102809.
 
-[Xin Chang](https://personal.ntu.edu.sg/changxin/), [Kangkang Fu](https://cbpm.wku.edu.cn/en/node/2449), **Yaling Jin**, Pei Fun Liem, 2022, Sustainable Finance: ESG/CSR, Firm Value, and Investment Returns, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12379), 51(3), 325-371.
+[Xin Chang](https://personal.ntu.edu.sg/changxin/), [Kangkang Fu](https://cbpm.wku.edu.cn/en/node/2449), **Yaling Jin**, [Pei Fun Liem](https://scholar.google.co.id/citations?user=iMzzdyIAAAAJ&hl=en), 2022, Sustainable Finance: ESG/CSR, Firm Value, and Investment Returns, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12379), 51(3), 325-371.
 
 **Yaling Jin**, 2022, Firm Misvaluation and Corporate Social Responsibility, [*Asia–Pacific Journal of Financial Studies*](https://doi.org/10.1111/ajfs.12373), 51(4), 517-540.
 
