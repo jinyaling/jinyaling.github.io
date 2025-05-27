@@ -27,10 +27,10 @@ drops in sales and a demand shift from private to state-owned developers. The po
 > We use the adoption of US state-level Paid Family Leave (PFL) laws to examine the effect of family-friendly policies on firm innovation. We find that PFL policies increase the innovation outputs for firms employing workers in PFL states. We investigate three potential channels: inventor productivity, inventor mobility, and inventor career longevity. PFL policies attract female inventors from out-of-state and help firms retain their current employees. In addition, female inventors are less likely to drop out of their patenting careers after states adopt PFL policies. Overall, inventor relocation and career lengthening contribute to the innovation gains in states with PFL policies.
 
 &nbsp;
- - **[Employment Nondiscrimination Acts and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4465220)**, with Xin Chang (Simba), Endong Yang, and Wenrui Zhang
+ - **[Employment Nondiscrimination Acts and Corporate Social Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4465220)**, with [Xin Chang](https://personal.ntu.edu.sg/changxin/), [Endong Yang](https://fba.um.edu.mo/faculty/endongyang/), and [Wenrui Zhang](https://sites.google.com/site/zh0006ui/)
 >
 > The paper shows that US state-level employment nondiscrimination acts (ENDAs) have a spillover effect on firms’ non-diversity corporate social responsibility (CSR) performance. We find that product market competition plays an important role in shaping the ENDA-CSR relation. The result suggests that firms proactively improve non-diversity CSR performance after ENDA enactments level the playing field of diversity. This positive effect is also more pronounced for firms with greater financial strengths, greater visibility and more socially responsible institutional investor ownership. Overall, our findings shed light on how public policies aimed at equal treatment of a particular group of employees can affect CSR policies related to other stakeholders.
 
 &nbsp;
 ## Work in Progress
- - **Paid Family Leave and Financial Analysts**, with Yanyan Guo, Huifang Yin, and Wenrui Zhang
+ - **Paid Family Leave and Financial Analysts**, with [Yanyan Guo](https://business.uc.edu/faculty-research/finance/faculty/phd-students/yanyan-guo.html), [Huifang Yin](https://sa.sufe.edu.cn/f2/5b/c3273a62043/page.htm), and [Wenrui Zhang](https://sites.google.com/site/zh0006ui/)
