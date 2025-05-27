@@ -18,7 +18,7 @@ layout: page
 
 ## Working papers
 
- - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Xiaozhe Guo, [Hong Ru](https://dr.ntu.edu.sg/cris/rp/rp01160), [Endong Yang](https://fba.um.edu.mo/faculty/endongyang/), and Kunru Zou <br>
+ - **[Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Xiaozhe Guo, [Hong Ru](https://dr.ntu.edu.sg/cris/rp/rp01160), [Endong Yang](https://fba.um.edu.mo/faculty/endongyang/), and [Kunru Zou](https://scholar.google.com/citations?user=5MTTlXUAAAAJ&hl=en) <br>
 > This study examines the economic consequences of China’s Three-Red-Lines policy—introduced in 2021 to cap real estate developers’ leverage by imposing strict thresholds on debt ratios and liquidity. Developers breaching these thresholds experienced sharp declines in financing, land acquisitions, and financial performance, with privately-owned developers disproportionately affected relative to state-owned firms. Using granular project-level data, we document significant
 drops in sales and a demand shift from private to state-owned developers. The policy also reduced local governments’ land sale revenues, prompting greater reliance on hidden local government financing vehicles for land purchases. The policy induced broad structural changes in China’s housing and land markets.
 
