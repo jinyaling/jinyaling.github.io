@@ -3,24 +3,6 @@
 
 @import index, font, basic, layout, classes
 
-// Header image adjustments
-.header-image-container
-  margin: 0 calc(38% - 22em)  // Matches html padding
-  width: calc(100% - (76% - 44em)) // Counteracts the margin
-  max-width: 100%
-  
-  img
-    width: 100%
-    height: auto
-    display: block
-  
-  
-// Dark mode adaptation
-@media (prefers-color-scheme: dark)
-  .header-image-container img
-    opacity: 0.9
-    filter: brightness(0.8) contrast(1.2)
-
 html
   background: lighten($light, 5%)
   padding: 0 calc(38% - 22em)
