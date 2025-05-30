@@ -13,7 +13,7 @@ School of Accounting, Southwestern University of Finance and Economics
 
 
 ### Research Interests: 
-Corporate Finance, Chinese Economy, Corporate Innovation, Sustainability
+Corporate Finance, Sustainability, Innovation, Chinese Economy, Tax Policies
 
 ### Contact:
 Email: [jinyl@swufe.edu.cn](mailto:jinyl@swufe.edu.cn) and [jinyaling001@gmail.com](mailto:jinyaling001@gmail.com)
