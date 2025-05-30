@@ -20,3 +20,8 @@ Email: [jinyl@swufe.edu.cn](mailto:jinyl@swufe.edu.cn) and [jinyaling001@gmail.c
 
 Office: Room 602, Chengzheng Building, SWUFE (Liulin Campus), 555 Liutai Avenue, Wenjiang District, Chengdu, Sichuan, China
 
+
+### Links
+[<img src="https://github.com/user-attachments/assets/09fc65c0-d8ad-4fbb-bbf0-d4a362f237b9" width="150">](https://scholar.google.com.sg/citations?user=pK_d_wEAAAAJ&hl=zh-TW)
+&emsp;
+[<img src="https://github.com/user-attachments/assets/6b616f05-f091-42a9-a947-647085e46206" width="100">](https://orcid.org/0000-0003-4505-4216)
