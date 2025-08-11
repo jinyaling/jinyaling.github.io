@@ -8,17 +8,17 @@ title: ""
 <img src="/assets/img/JYL_2024.jpg" alt="Description" style="width: 30%; max-width: 800px; border: 1px solid #eee;">
 
 
-### Associate Professor (not tenured)
-School of Accounting, Southwestern University of Finance and Economics
+### Assistant Professor
+Shenzhen Audencia Financial Technology Institute (SAFTI), Shenzhen University
 
 
 ### Research Interests: 
 Corporate Finance, Sustainability, Innovation, Chinese Economy, Tax Policies
 
 ### Contact:
-Email: [jinyl@swufe.edu.cn](mailto:jinyl@swufe.edu.cn) and [jinyaling001@gmail.com](mailto:jinyaling001@gmail.com)
+Email: [jinyaling001@gmail.com](mailto:jinyaling001@gmail.com)
 
-Office: Room 602, Chengzheng Building, SWUFE (Liulin Campus), 555 Liutai Avenue, Wenjiang District, Chengdu, Sichuan, China
+Location: Huixing Building, Shenzhen University, No. 3688 Nanhai Avenue, Nanshan District, Shenzhen, China
 
 
 ### Links
