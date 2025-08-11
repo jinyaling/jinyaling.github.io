@@ -4,7 +4,7 @@ permalink: "/shortbio/"
 layout: page
 ---
 
-I am an Associate Professor at the School of Accounting of Southwestern University of Finance and Economics (SWUFE). Before joining SWUFE in September 2022, I obtained my PhD degree in Finance from Nanyang Technological University. 
+I am an Assistant Professor at the Shenzhen Audencia Financial Technology Institute of Shenzhen University. 
 
 My primary research interest lies in the field of Empirical Corporate Finance, focusing on Sustainable Finance, Firm Innovation, Tax Policies, and the Chinese Economy.
 
