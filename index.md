@@ -16,7 +16,7 @@ Shenzhen Audencia Financial Technology Institute (SAFTI), Shenzhen University
 Corporate Finance, Sustainability, Innovation, Chinese Economy, Tax Policies
 
 ### Contact:
-Email: [jinyaling001@gmail.com](mailto:jinyaling001@gmail.com)
+Email: [jinyl@szu.edu.cn](mailto:jinyl@szu.edu.cn) or [jinyaling001@gmail.com](mailto:jinyaling001@gmail.com)
 
 Location: Huixing Building, Shenzhen University, No. 3688 Nanhai Avenue, Nanshan District, Shenzhen, China
 
