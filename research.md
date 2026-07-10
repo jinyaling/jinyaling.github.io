@@ -19,7 +19,7 @@ layout: page
 ## Working papers
 
  - **[Deleveraging Developers in China: Real Effects and Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537)**, with Xiaozhe Guo, [Hong Ru](https://dr.ntu.edu.sg/cris/rp/rp01160), [Endong Yang](https://fba.um.edu.mo/faculty/endongyang/), and [Kunru Zou](https://scholar.google.com/citations?user=5MTTlXUAAAAJ&hl=en) <br>
-> Previously distributed under the name "Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation".
+ An earlier version circulated under the title “Redefining China’s Real Estate Market: Land Sale, Local Government, and Policy Transformation.” 
 > This study examines how China's Three Red Lines policy, a developer credit tightening, affects developers, housing markets, and local government finance. Developers breaching more thresholds reduced debt and new land acquisitions and experienced lower housing sales, weaker profitability, and higher default risk. Private developers suffered larger losses and higher default risk than SOEs. Using project launch and sales data, we show that this ownership gap reflects both supply contraction by private developers and demand reallocation toward SOE projects. As developers reduced land purchases, local governments increasingly relied on LGFVs to buy land, weakening LGFV liquidity and raising their financing costs.
 
 &nbsp;
